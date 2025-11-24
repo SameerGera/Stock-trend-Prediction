@@ -52,7 +52,7 @@ Steps to Install
 
 Clone the Repository
 
-git clone [https://github.com/yourusername/trendmaster.git](https://github.com/yourusername/trendmaster.git)
+git clone [(https://github.com/yourusername/trendmaster.git](https://github.com/SameerGera/Stock-trend-Prediction))
 cd trendmaster
 
 
@@ -65,7 +65,7 @@ Steps to Run
 
 Execute the following command in your terminal:
 
-streamlit run stock_prediction_app.py
+streamlit run stock_prediction.py
 
 
 The application will open in your default browser at http://localhost:8501.
@@ -82,12 +82,6 @@ View Analysis: Click the "Trend Analysis" tab to see the prediction lines (Orang
 
 Check Metrics: Click "Model Metrics" to see the mathematical accuracy of the prediction.
 
-7. Screenshots
 
-(Placeholder for actual screenshots of the running app)
-
-Login Screen
-
-Main Dashboard
 
 Prediction Chart
