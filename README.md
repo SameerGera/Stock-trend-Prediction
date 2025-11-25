@@ -52,7 +52,7 @@ Steps to Install
 
 Clone the Repository
 
-git clone [(https://github.com/yourusername/trendmaster.git](https://github.com/SameerGera/Stock-trend-Prediction))
+git clone [(https://github.com/SameerGera/Stock-trend-Prediction))
 cd trendmaster
 
 
@@ -79,7 +79,7 @@ Select Ticker: Enter a valid stock symbol (e.g., MSFT, TSLA, NVDA) in the sideba
 Adjust Parameters: Change the "Years of History" slider and observe the data reload.
 
 View Analysis: Click the "Trend Analysis" tab to see the prediction lines (Orange = Trend, Green = Future).
-
+    
 Check Metrics: Click "Model Metrics" to see the mathematical accuracy of the prediction.
 
 
