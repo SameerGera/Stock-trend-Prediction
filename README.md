@@ -83,5 +83,3 @@ View Analysis: Click the "Trend Analysis" tab to see the prediction lines (Orang
 Check Metrics: Click "Model Metrics" to see the mathematical accuracy of the prediction.
 
 
-
-Prediction Chart
